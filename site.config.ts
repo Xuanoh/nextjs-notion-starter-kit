@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'xhou blog',
-  domain: 'xhou.ink',
+  domain: 'xuanouing.com',
   author: 'xhou',
 
   // open graph metadata (optional)
